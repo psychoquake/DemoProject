@@ -30,5 +30,11 @@ namespace DemoProject
             string lname = "Reddy";
             Console.WriteLine(fname + " " + lname);
         }
+        public void fullname3()
+        {
+            string fname = "Akshans";
+            string lname = "Rautela";
+            Console.WriteLine(fname + " " + lname);
+        }
     }
 }
