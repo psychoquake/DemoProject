@@ -24,5 +24,11 @@ namespace DemoProject
             string lname = "Gadekar";
             Console.WriteLine(fname + " " + lname);
         }
+        public void fullname2()
+        {
+            string fname = "Akshitha";
+            string lname = "Reddy";
+            Console.WriteLine(fname + " " + lname);
+        }
     }
 }
