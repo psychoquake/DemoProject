@@ -30,7 +30,7 @@ namespace DemoProject
             string lname = "Reddy";
             Console.WriteLine(fname + " " + lname);
         }
-        public void fullname3()
+        public void fullname3()//vscode change
         {
             string fname = "Akshans";
             string lname = "Rautela";
