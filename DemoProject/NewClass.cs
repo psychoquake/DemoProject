@@ -12,5 +12,10 @@ namespace DemoProject
         {
             Console.WriteLine("Abhishek trying to build the sln through jenkins.");
         }
+
+        public void fn2()
+        {
+            Console.WriteLine("Created by Aditya");
+        }
     }
 }
