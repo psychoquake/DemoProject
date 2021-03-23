@@ -36,5 +36,9 @@ namespace DemoProject
             string lname = "Rautela";
             Console.WriteLine(fname + " " + lname);
         }
+        public void autopush()
+        {
+            Console.WriteLine("The auto push from jenkins");
+        }
     }
 }
