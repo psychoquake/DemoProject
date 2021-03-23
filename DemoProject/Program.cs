@@ -40,5 +40,9 @@ namespace DemoProject
         {
             Console.WriteLine("The auto push from jenkins");
         }
+        public void pushatfifty()
+        {
+            Console.WriteLine("will patienty wait for this push in jenkins at 11:50");
+        }
     }
 }
